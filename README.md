@@ -5,6 +5,8 @@
 **In this project , first we differentiated the data sets into 0 and 1. 0 indicates the legit transaction and 1 indicates the fraudulent transactions  and made a new dataset named as legit sample and predicted the accuracy scores.**
 
 **I used many different Scikit-learn Libraries** 
+
+
 **1) from sklearn.model_selection import train_test_split:
 This line imports the train_test_split function from the sklearn.model_selection module. The train_test_split function is used to split a dataset into two parts: a training set and a testing set. This is essential for evaluating the performance of a machine learning model by training it on one portion of the data and testing it on another.**
 
